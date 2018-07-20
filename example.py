@@ -10,8 +10,8 @@ from src.follow_protocol import follow_protocol
 from src.unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
-    login="username",
-    password="password",
+    login="ansawell247",
+    password="freshStart#1",
     like_per_day=1000,
     comments_per_day=0,
     tag_list=['follow4follow', 'f4f', 'cute', 'l:212999109'],
@@ -26,9 +26,9 @@ bot = InstaBot(
     log_mod=0,
     proxy='',
     # List of list of words, each of which will be used to generate comment
-    # For example: "This shot feels wow!"
+    # For example: "This shot feels wow!"spri
     comment_list=[["this", "the", "your"],
-                  ["photo", "picture", "pic", "shot", "snapshot"],
+                  ["wisdom", "consciousness", "awareness", "personal development", "spiritual"],
                   ["is", "looks", "feels", "is really"],
                   ["great", "super", "good", "very good", "good", "wow",
                    "WOW", "cool", "GREAT","magnificent", "magical",
